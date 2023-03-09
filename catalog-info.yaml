@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-web-component
+  description: Dummy web component for backstage catalog
+  tags:
+    - react
+    - website
+spec:
+  type: web
+  lifecycle: production
+  owner: amegia
