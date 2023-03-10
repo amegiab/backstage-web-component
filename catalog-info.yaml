@@ -10,3 +10,5 @@ spec:
   type: web
   lifecycle: production
   owner: amegia
+  providesApis:
+    - backstage-web-api
